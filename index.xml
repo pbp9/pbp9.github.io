@@ -128,14 +128,6 @@ The variance of the distribution is $\sigma^{2}$.
     </item>
     
     <item>
-      <title>Post Created from windows powershell</title>
-      <link>/post/welcome/</link>
-      <pubDate>Thu, 10 Jun 2021 16:54:37 +0530</pubDate>
-      <guid>/post/welcome/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Predicting a Startups Profit/Success Rate</title>
       <link>/post/python-assignment/</link>
       <pubDate>Thu, 10 Jun 2021 00:00:00 +0000</pubDate>
@@ -315,7 +307,7 @@ data.head()
 &lt;p&gt;Demo:&lt;/p&gt;
 
 
-&lt;div id=&#34;chart-849517362&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-387165492&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -325,7 +317,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-849517362&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-387165492&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -579,7 +571,7 @@ data.head()
 &lt;p&gt;Demo:&lt;/p&gt;
 
 
-&lt;div id=&#34;chart-428916537&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-897124365&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -589,7 +581,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-428916537&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-897124365&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
