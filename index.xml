@@ -380,6 +380,48 @@ The variance of the distribution is $\sigma^{2}$.
     </item>
     
     <item>
+      <title>Best Data Visualization Blogs to Follow</title>
+      <link>/post/best-data-visualization-blogs-to-follow/</link>
+      <pubDate>Thu, 24 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>/post/best-data-visualization-blogs-to-follow/</guid>
+      <description>&lt;p&gt;Consuming large sets of data isn’t always straightforward. Sometimes, data sets are so large that it’s downright impossible to discern anything useful from them. That’s where data visualizations come in.&lt;/p&gt;
+&lt;p&gt;Creating data visualizations is rarely straightforward. It’s not as if designers can simply take a data set with thousands of entries and create a visualization from scratch. Sure, it’s possible, but who wants to spend dozens or hundreds of hours plotting dots on a scatter chart? That’s where data visualization tools come in.&lt;/p&gt;
+&lt;hr&gt;
+&lt;details class=&#34;toc-inpage d-print-none d-xl-none &#34; open&gt;
+  &lt;summary class=&#34;font-weight-bold&#34;&gt;Table of Contents&lt;/summary&gt;
+  &lt;nav id=&#34;TableOfContents&#34;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&#34;#what-are-data-visualization-tools&#34;&gt;What Are Data Visualization Tools?&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#here-is-the-list-of-the-blogs-to-follow&#34;&gt;Here is the list of the Blogs to follow&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/nav&gt;
+&lt;/details&gt;
+
+&lt;h2 id=&#34;what-are-data-visualization-tools&#34;&gt;What Are Data Visualization Tools?&lt;/h2&gt;
+&lt;p&gt;Data visualization tools provide data visualization designers with an easier way to create visual representations of large data sets. When dealing with data sets that include hundreds of thousands or millions of data points, automating the process of creating a visualization at least in part, makes a designer’s job significantly easier.&lt;/p&gt;
+&lt;p&gt;These data visualizations can then be used for a variety of purposes: dashboards, annual reports, sales and marketing materials, investor slide decks, and virtually anywhere else information needs to be interpreted immediately.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;A data visualization of unique words used by three central characters in the Game of Thrones book series.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;img src=&#34;./game-of-thrones.jpg&#34; alt=&#34;jpg&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;here-is-the-list-of-the-blogs-to-follow&#34;&gt;Here is the list of the Blogs to follow&lt;/h2&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;Story telling with Data&lt;/li&gt;
+&lt;li&gt;Information is Beautiful&lt;/li&gt;
+&lt;li&gt;Flowing Data&lt;/li&gt;
+&lt;li&gt;Visualizing Data&lt;/li&gt;
+&lt;li&gt;Junk Charts&lt;/li&gt;
+&lt;li&gt;The Pudding&lt;/li&gt;
+&lt;li&gt;Data Plus Science&lt;/li&gt;
+&lt;li&gt;Graphic Detail&lt;/li&gt;
+&lt;li&gt;Any Chart Blog&lt;/li&gt;
+&lt;li&gt;Tableau Blog&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>How to become a Data Scientist | A step by step guide</title>
       <link>/post/guide-to-become-a-data-scientist/</link>
       <pubDate>Thu, 24 Jun 2021 00:00:00 +0000</pubDate>
