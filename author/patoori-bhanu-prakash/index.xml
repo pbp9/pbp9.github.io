@@ -5,12 +5,118 @@
     <link>/author/patoori-bhanu-prakash/</link>
       <atom:link href="/author/patoori-bhanu-prakash/index.xml" rel="self" type="application/rss+xml" />
     <description>PATOORI BHANU PRAKASH</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 22 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 24 Jun 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/author/patoori-bhanu-prakash/Avatar_hu202df6658d63c300ec5a729e7219c4d8_6326473_270x270_fill_lanczos_center_2.png</url>
       <title>PATOORI BHANU PRAKASH</title>
       <link>/author/patoori-bhanu-prakash/</link>
     </image>
+    
+    <item>
+      <title>How to become a Data Scientist | A step by step guide</title>
+      <link>/post/guide-to-become-a-data-scientist/</link>
+      <pubDate>Thu, 24 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>/post/guide-to-become-a-data-scientist/</guid>
+      <description>&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;Becoming a Data Scientists is an exciting path, but you cannot learn data science within one year or six months—instead, it’s a lifetime process that you have to follow with proper dedication and hard work. To guide your journey, the skills outlined here are the first you must acquire to become a data scientist.&lt;/em&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;There are tons of resources and links out there, but often we get confused on which resources to follow. Don’t worry, I have got you covered. I have attached the links to several YouTube channels, blogs, courses, and other websites that I found appropriate for a beginner.&lt;/p&gt;
+&lt;p&gt;You can also use the Data Science Community Websites Like Analytics Vidhya and Kaggle for implementing your learning and getting hands-on experience in Data Science.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;./guide-become-data-scientist.png&#34; alt=&#34;png&#34;&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;details class=&#34;toc-inpage d-print-none d-xl-none &#34; open&gt;
+  &lt;summary class=&#34;font-weight-bold&#34;&gt;Table of Contents&lt;/summary&gt;
+  &lt;nav id=&#34;TableOfContents&#34;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&#34;#step-1-choose-a-programming-language-python--r&#34;&gt;STEP 1: Choose A Programming Language (Python / R)&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#step-2-statistics&#34;&gt;STEP 2. Statistics&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#step-3-learn-sql&#34;&gt;STEP 3: Learn SQL&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#step-4-data-cleaning&#34;&gt;STEP 4. Data Cleaning&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#step-5-exploratory-data-analysis&#34;&gt;STEP 5: Exploratory Data Analysis&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#step-6-learn-machine-learning-algorithms&#34;&gt;STEP 6: Learn Machine Learning Algorithms&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#step-7-practice-on-analytics-vidhya-and-kaggle&#34;&gt;Step 7: Practice On Analytics Vidhya and Kaggle&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/nav&gt;
+&lt;/details&gt;
+
+&lt;h2 id=&#34;step-1-choose-a-programming-language-python--r&#34;&gt;STEP 1: Choose A Programming Language (Python / R)&lt;/h2&gt;
+&lt;p&gt;The first step while starting the Data Science Journey is to get familiar with a programming language. Between the two, Python is the most preferred coding language and is adopted by most Data Scientists. It is easy to understand, versatile, and supports various in-built libraries such as Numpy, Pandas, MatplotLib, Seaborn, Scipy, and many more.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=rfscVS0vtbwl&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;FreeCodeCamp’s Python Tutorial&lt;/a&gt; (Recommended)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.kaggle.com/learn/python&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Kaggle’s Python Course&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/playlist?list=PLZoTAELRMXVNUL99R4bDlVYsncUNvwUBB&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Krish Naik’s Python Tutorial&lt;/a&gt; (Recommended)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://bit.ly/dataprofessor-udemy-python-ds&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Udemy’s Python for Data Science and Machine Learning Bootcamp&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.coursera.org/learn/python&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Coursera Python Course&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;NOTE:&lt;/em&gt; While learning Python, one should know essential Python variables, data types, OOPs concepts, Numpy, Pandas, Matplotlib, and Seaborn&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;step-2-statistics&#34;&gt;STEP 2. Statistics&lt;/h2&gt;
+&lt;p&gt;For becoming a Data Scientist, having knowledge of statistics and probability is as essential as having salt in food. Knowing them will help the data scientists interpret large data sets, get insights from them, and analyze them better.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=zRUliXuwJCQ&amp;amp;list=PLZoTAELRMXVMhVyr3Ri9IQ-t5QPBtxzJO&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Krish Naik’s Statistics Playlist&lt;/a&gt; (Recommended)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.coursera.org/learn/statistics-for-data-science-python&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Coursera Statistics Course&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.khanacademy.org/math/statistics-probability&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Khan Academy Statistics And Probability Course&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=xxpc-HPKN28&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;FreeCodeCamp Statistics Course&lt;/a&gt; (Recommended)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;NOTE:&lt;/em&gt; Statistics provides the ideas about Mean, Median, Mode, Range, Variance, Standard Deviation, Graphs or Plotting, Populations, and Samples.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;step-3-learn-sql&#34;&gt;STEP 3: Learn SQL&lt;/h2&gt;
+&lt;p&gt;Structured Query Language (SQL) is used for extracting and communicating with large databases. One should focus on understanding the different types of normalization, writing nested queries, using co-related questions, group-by, performing join operations, etc., on the data and extract in raw format. This data will then further be cleaned either in Microsoft Excel or by using Python libraries.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=HXV3zeQKqGY&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Freecodecamp SQL&lt;/a&gt; (Recommended)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.kaggle.com/learn/intro-to-sql&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Intro To SQL By Kaggle&lt;/a&gt; (Recommended)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.kaggle.com/learn/advanced-sql&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Advanced SQL By kaggle&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=BPHAr4QGGVE&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Edureka’s SQL Playlist&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;NOTE:&lt;/em&gt; In SQL, one should know about creating tables, inserting data, updating data, deleting data, and performing some basic query operations.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;step-4-data-cleaning&#34;&gt;STEP 4. Data Cleaning&lt;/h2&gt;
+&lt;p&gt;When a Data Scientist is given a project, the majority of the time goes into cleaning the data set, removing unwanted values, handling missing values. It can be achieved by using some inbuilt python libraries like Pandas and Numpy.
+One should also know how to manipulate data using Microsoft Excel.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&#34;https://realpython.com/python-data-cleaning-numpy-pandas/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Blog — Cleaning Data Using Python&lt;/a&gt; (Recommended)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=RdTozKPY_OQ&amp;amp;t=2984s&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Edureka’s Microsoft Excel Course&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.kaggle.com/learn/pandas&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Learning Pandas By Kaggle&lt;/a&gt; (Recommended)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;NOTE:&lt;/em&gt; In Microsoft Excel, you should know basic data filtering or sorting, Functions or Formulas, Vlookup, Pivot table and charts, and Tables, etc.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;step-5-exploratory-data-analysis&#34;&gt;STEP 5: Exploratory Data Analysis&lt;/h2&gt;
+&lt;p&gt;Exploratory data analysis is the essential part when talking about data science. The data scientist has many tasks, including finding data patterns, analyzing data, finding the appropriate trends in the data and obtaining valuable insights, etc., from them with the help of various graphical and statistical methods, including:&lt;/p&gt;
+&lt;p&gt;A) Data Analysis using Pandas and Numpy
+B) Data Manipulation
+C) Data Visualization&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=pKsGE7wqQks&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Intro To EDA By Code Heroku’s&lt;/a&gt; (Recommended)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://medium.com/analytics-vidhya/exploratory-data-analysis-iris-dataset-4df6f045cda&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Blog — Performing EDA on Iris Data Set&lt;/a&gt; (Recommended)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.coursera.org/learn/probability-theory-statistics&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Coursera Course On EDA, Statistics, Probability&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;img src=&#34;./types-of-plots-in-seaborn-python-librabry.png&#34; alt=&#34;png&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;step-6-learn-machine-learning-algorithms&#34;&gt;STEP 6: Learn Machine Learning Algorithms&lt;/h2&gt;
+&lt;p&gt;According to Google, “Machine learning is a method of data analysis that automates analytical model building. It is a branch of artificial intelligence based on the idea that systems can learn from data, identify patterns and make decisions with minimal human intervention.”&lt;/p&gt;
+&lt;p&gt;It is the most crucial step in a life cycle of a data scientist where one has to build various models using machine learning algorithms and should be able to predict and come with the most optimum solution to solve any problem.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.coursera.org/learn/machine-learning&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Machine Learning By Andrew NG&lt;/a&gt; (Recommended)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=9jA0KjS7V_c&amp;amp;list=PLZoTAELRMXVPGU70ZGsckrMdr0FteeRUi&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Deep Learning By Krish Naik&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.kaggle.com/learn/intro-to-machine-learning&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Intro To ML By Kaggle&lt;/a&gt; (Recommended)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=EqRsD3gqeCo&amp;amp;list=PLZoTAELRMXVOnN_g96ayzXX5i7RRO0QhL&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Machine Learning By Krish Naik&lt;/a&gt; (Recommended)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.coursera.org/specializations/deep-learning&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Coursera Deep Learning Specialization&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;img src=&#34;./machine-learning-landscape.jpeg&#34; alt=&#34;jpeg&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;step-7-practice-on-analytics-vidhya-and-kaggle&#34;&gt;Step 7: Practice On Analytics Vidhya and Kaggle&lt;/h2&gt;
+&lt;p&gt;After acquiring the basics of Data Science, now it’s time to get hands-on experience in its part. There are many online platforms, like Kaggle and Analytics Vidhya, that can provide you with hands-on experience with both beginner and advanced level data sets. They can help you to understand various machine learning algorithms, different analyzing techniques, etc.&lt;/p&gt;
+&lt;p&gt;You can follow the below approach to know how effectively you can use these platforms.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;You can start by first downloading the datasets and analyzing the data, and implementing all the different techniques you have learned.&lt;/li&gt;
+&lt;li&gt;Next, you can check on other people’s notebooks and understand how they have solved a particular problem or gained insights from the data. (This method will certainly make you more confident and help to improve your knowledge.)&lt;/li&gt;
+&lt;li&gt;After you are confident enough, you can participate in Competitions organized by both Kaggle and Analytics Vidhya. This will not only help you to sharpen your skills in Data Science but also to learn Data Science better.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;By &lt;a href=&#34;https://www.linkedin.com/in/adityaagarwal68/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Aditya Agarwal&lt;/a&gt;, Graduate Student at Northeastern U&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Top 20 YouTube Channels to Learn Data Science</title>
